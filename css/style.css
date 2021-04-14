@@ -53,6 +53,12 @@
     --level-4: 0 20px 25px -5px rgba(0, 0, 0, 0.1),
         0 10px 10px -5px rgba(0, 0, 0, 0.04);
 
+    /* Z-indexes */
+    --z-base: 1;
+    --z-modal: 200;
+    --z-fixed: 400;
+    --z-sticky: 500;
+
     --med: 400px;
 
     /*  Positioning */
