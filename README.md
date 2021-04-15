@@ -1,9 +1,5 @@
 # Simple CSS Design System
 
-This is a basic start to a a CSS design system for building web applications. This provides a good starting point for working with colors and themes.
+ A CSS design system for building modern websites and apps. Built upon HTML5 Boilerplate, it also provides a good starting point for basic HTML websites. This provides a good starting point for working with colors and themes.
 
-## TODO
-
-- Convert to SCSS (maybe)
-
-*This package was started with HTML5 Boilerplate.*
+ All CSS relevant to the design system is in css/styles.css.
